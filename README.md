@@ -19,7 +19,7 @@ All'interno di questa cartella trovate le due sottocartelle
 1. Aprite il terminale di VS Code (CTRL + J)
 2. Cercate la cartella che contiene il vostro file con estensione ".cpp" muovendovi con il comando cd seguito dal nome del file
 3. Digitate il comando `g++ -o NOMEFILE NOMEFILE.cpp` poi INVIO
-4. Per eseguire il programma digitate il comando `./NOMEPROGRAMMA` poi INVIO
+4. Per eseguire il programma digitate il comando `./NOMEFILE` poi INVIO
 5. Have fun!
 
 
