@@ -6,13 +6,13 @@ All'interno di questa cartella trovate le due sottocartelle
  - "Lezioni"
  - "Esercizi"
 
-### Utilizzeremo VSCode per imparare
+### Se volete provare VSCode
 
 1. Installate l'ultima versione di VSCode disponibile da questo [link](https://code.visualstudio.com/download)
 2. Aprite VS Code
 3. Cliccate sull'icona con i 4 quadrati e nella barra di ricerca digitate C++
 4. Installate l'estensione che si chiama "C/C++
-5. Seguite [questi passi] (https://code.visualstudio.com/docs/cpp/config-mingw) PEDISSEQUAMENTE, fino al paragrafo "Run helloworld.cpp"
+5. Seguite [qui](https://code.visualstudio.com/docs/cpp/config-mingw) PEDISSEQUAMENTE, fino al paragrafo "Run helloworld.cpp"
 
 ### Per compilare
 
