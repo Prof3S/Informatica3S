@@ -1,0 +1,10 @@
+Ecco cosa dovrete creare nei prossimi 5 esercizi, provate prima a farli da soli!
+
+1. - Creare un puntatore che punti ad una variabile e farvi stampare a schermo il valore della variabile ed il valore puntato dal puntatore
+2. - Stesso procedimento dell'esercizio precedente. ora però provate ad assegnare al puntatore un altro valore. Fatevi stampare infine il valore di x. Cosa è accaduto?
+3. - Create un array statico composto da 5 valori interi e un puntatore che punti all'array. Fatevi stampare ognuno dei suoi elementi utilizzando il puntatore.
+4. - Come esercizio 2. in più create un puntatore che punti al puntatore. Fatevi stampare il suo valore.
+5. - Create una funzione che prenda in ingresso un parametro intero e ve lo stampi. Istanziate un puntatore alla funzione e assegnategli l'indirizzo di memoria della funzione. chiamate il puntatore alla funzione
+      passandogli come argomento il numero 10.
+
+Buon lavoro!
