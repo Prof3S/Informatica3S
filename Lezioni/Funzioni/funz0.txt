@@ -1,0 +1,10 @@
+Provate a risolvere gli esercizi DA SOLI, poi guardate le soluzioni...
+
+  funz1   - Calcolare la somma di due interi inseriti da utente con una funzione
+  funz2   - Scambiare il contenuto di due variabili usando il passaggio per referenza o per puntatore
+  funz3   - Creare una calcolatrice
+  funz4   - Scrivi una funzione sommaArray che accetti un array di interi e restituisca la somma di tutti gli elementi dell'array.
+  funz5_1 - Calcolare il fattoriale di un numero senza utilizzando una funzione ricorsiva
+  funz5_2 - Calcolare il fattoriale di un numero senza utilizzando una funzione 
+  funz6   - Scrivi una funzione invertiStringa che accetti una stringa come argomento e restituisca la stringa invertita. Ad esempio, se la stringa è "ciao",
+la funzione dovrebbe restituire "oaic".
