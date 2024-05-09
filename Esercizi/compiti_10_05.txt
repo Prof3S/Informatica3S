@@ -1,0 +1,19 @@
+Programma 1
+Chiedere all'utente di inserire il numero di interi di cui controllare la parità.
+Salvare gli interi all'interno di un array dinamico.
+Dire all'utente se ogni entrata è pari o dispari.
+
+Programma 2
+Chiedere all'utente di inserire il numero di interi di cui controllare la parità.
+Salvare gli interi all'interno di un array dinamico.
+Utilizzando una funzione, restituire all'utente la parità/disparità di ogni entrata dell'array. (La funzione deve essere void, deve solo stampare)
+
+Programma 3
+Chiedere all'utente di inserire il numero di interi di cui controllare la parità.
+Salvare gli interi all'interno di un array dinamico.
+Utilizzando una funzione, restituire all'utente la parità/disparità di ogni entrata dell'array. (La funzione deve ritornare una variabile booleana)
+
+Programma 4
+Chiedere all'utente di inserire il numero di interi di cui controllare la parità.
+Salvare gli interi all'interno di un array dinamico.
+Sfruttando la funzione precedente, riempire un nuovo array dinamico facendo in modo che contenga SOLO i numeri PARI inseriti dall'utente
